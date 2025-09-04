@@ -6,6 +6,8 @@
 This project demonstrates how to design and query a **Student Performance Database** using SQL.  
 It includes a normalized schema with constraints, sample data, and analytical queries to showcase SQL skills.  
 
+## 🗄 Database Schema Diagram
+![ER Diagram](https://raw.githubusercontent.com/sarkarwasim1991/student-performance/main/Schema.png)
 ---
 
 ## 🗄 Database Schema
@@ -76,8 +78,7 @@ It includes database schema, sample data, and queries for analysis.
 
 👨‍💻 Built with MySQL | 📂 See `schema.sql`, `data.sql`, and `queries.sql` for details.
 
-## 🗄 Database Schema Diagram
-![ER Diagram](https://raw.githubusercontent.com/sarkarwasim1991/student-performance/main/Schema.png)
+
 ---
 
 👨‍💻 Created by Wasim Sarkar
