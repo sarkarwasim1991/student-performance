@@ -1,5 +1,3 @@
-# student-performance
-
 # 🎓 Student Performance Database (SQL Project)
 
 ## 📌 Overview
@@ -61,7 +59,6 @@ FROM students s
 JOIN attendance a ON s.student_id = a.student_id
 GROUP BY s.student_id;
 
-
 2. Students Enrolled in Courses
 SELECT s.name, c.course_name
 FROM students s
@@ -77,10 +74,7 @@ This project is about managing **students, courses, attendance, and grades** usi
 It includes database schema, sample data, and queries for analysis.  
 
 👨‍💻 Built with MySQL | 📂 See `schema.sql`, `data.sql`, and `queries.sql` for details.
-
-
 ---
 
 👨‍💻 Created by Wasim Sarkar
-📅 Year: 2025
-
+📅 Year: 4th September 2025
