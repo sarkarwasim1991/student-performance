@@ -76,8 +76,6 @@ It includes database schema, sample data, and queries for analysis.
 
 👨‍💻 Built with MySQL | 📂 See `schema.sql`, `data.sql`, and `queries.sql` for details.
 
-## 🗄 Database Schema Diagram
-![ER Diagram](screenshots/schema.png)
 
 ---
 
