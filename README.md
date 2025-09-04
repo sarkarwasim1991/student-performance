@@ -5,7 +5,7 @@ This project demonstrates how to design and query a **Student Performance Databa
 It includes a normalized schema with constraints, sample data, and analytical queries to showcase SQL skills.  
 
 ## 🗄 Database Schema Diagram
-![ER Diagram](https://raw.githubusercontent.com/sarkarwasim1991/student-performance/main/Schema.png)
+![ER Diagram](https://raw.githubusercontent.com/sarkarwasim1991/student-performance/main/Schemadiagram.png)
 ---
 
 ## 🗄 Database Schema
