@@ -76,7 +76,7 @@ It includes database schema, sample data, and queries for analysis.
 
 👨‍💻 Built with MySQL | 📂 See `schema.sql`, `data.sql`, and `queries.sql` for details.
 
-
+https://github.com/sarkarwasim1991/student-performance/blob/5fc319ba2708d3e37be33661a88fee4e49e8d32b/Schema.png
 ---
 
 👨‍💻 Created by Wasim Sarkar
